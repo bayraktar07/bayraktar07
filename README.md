@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuğrul</h1>
-<h3 align="center">A passionate student yet</h3>
+<h3 align="center">Kocaeli University Electronics and Communications Engineering</h3>
+<h3 align="center">A passionate graduate yet</h3>
 
 - 🌱 I’m currently learning **Java, Spring Framework**
 
